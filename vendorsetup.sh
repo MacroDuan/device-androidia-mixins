@@ -1,3 +1,4 @@
+test
 # Get the AOSP Ring on OneAndroid
 # Should be a comment in the manifest in the form
 # <!-- One_Android_Ring='1' -->
